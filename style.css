@@ -1,7 +1,74 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
 body {
   background-color: white;
+  margin: 0 auto;
 }
-
+h1 {
+  display: inline;
+}
+#orange {
+  color: orange;
+  font-weight: 900;
+}
+#gold {
+  color: gold;
+  font-weight: 900;
+}
+#gold2 {
+  color: gold;
+  font-weight: 900;
+}
+#grey {
+  color: grey;
+  font-weight: 900;
+}
+#grey2 {
+  color: grey;
+  font-weight: 900;
+}
+#grey3 {
+  color: grey;
+  font-weight: 900;
+}
+#grey4 {
+  color: grey;
+  font-weight: 900;
+}
+#imagem {
+  margin-bottom: 72px;
+}
+#balls-decoration {
+  width: 100%;
+  max-width: 100px;
+}
 #container {
-  border: 1px solid red;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  min-width: 570px;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+}
+h3 {
+  font-family: "Open Sans", sans-serif;
+  color: rgba(0, 0, 0, 0.983);
+}
+footer {
+  font-family: "Open Sans", sans-serif;
+  margin: 78px auto 0 auto;
+  padding: 8px;
+  display: flex;
+  gap: 36px;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  min-width: 570px;
+  max-width: max-content;
+}
+footer a {
+  color: gold;
 }
