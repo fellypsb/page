@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto page" src="" width="100%">
+  <img alt="projeto page" src="./assets/img-center/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A page é uma exemplificação de uma primeira página para uma empresa de móveis planejados, apresenta um modelo simples de aplicação em HTML e CSS.
 
-- [Acesse o projeto finalizado, online](fellypsb.github.io/page)
+- [Acesse o projeto finalizado, online](https://fellypsb.github.io/page/)
 
 ## 🔖 Layout
 
