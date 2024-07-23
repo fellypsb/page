@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto page" src="./assets/img-center/" width="100%">
+  <img alt="projeto page" src=".github/page/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
